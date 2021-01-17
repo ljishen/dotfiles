@@ -30,7 +30,7 @@
     enable_neomake = false
     enable_ale = true
 
-    bootstrap_before = 'myspacevim#before'
+    bootstrap_before = "myspacevim#before"
 
 
 [[layers]]
